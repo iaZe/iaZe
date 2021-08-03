@@ -37,6 +37,6 @@
 *OBS: Nehhuma das principais linguagens indicam meu nível de habilidade, é apenas uma forma de demonstrar quais códigos estão presentes no meu github
 <div style="display: inline_block">
 <a href="https://github.com/iaZe">
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=iaZe&show_icons=true&count_private=true&theme=midnight-purple"/>  
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaZe&layout=compac&show_icons=truet&langs_count=7&theme=midnight-purple"/>
+<img align="left" height="120em" src="https://github-readme-stats.vercel.app/api?username=iaZe&show_icons=true&count_private=true&theme=midnight-purple"/>  
+<img align="left" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaZe&layout=compac&show_icons=truet&langs_count=7&theme=midnight-purple"/>
 </div>
