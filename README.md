@@ -18,7 +18,7 @@
 </br> 
 </br>
   
-  <li>🌱 Atualmente estou estudando HTML5 e CSS3</li>
+  <li>🌱 Atualmente estou estudando HTML5, CSS3 e JS</li>
   <li>🔭 Estou trabalhando com Front-End</li>
   
   ##
