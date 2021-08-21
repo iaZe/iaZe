@@ -40,3 +40,8 @@
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=iaZe&show_icons=true&count_private=true&theme=midnight-purple"/>  
 <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaZe&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+  
+## Total de Visitas no perfil <br>
+<p align="center"> 
+<img alingn="center" src="https://profile-counter.glitch.me/iaZe/count.svg" />
+</p>
