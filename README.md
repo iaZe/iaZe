@@ -13,7 +13,7 @@
 </div>
 
 </br>
-  <li>🌱 Atualmente estou estudando HTML5, CSS3 e JS</li>
+  <li>🌱 Atualmente estou estudando Python</li>
   <li>🔭 Estou trabalhando com Front-End</li>
   
 ## :desktop_computer: Minhas Skills
