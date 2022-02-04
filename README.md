@@ -1,4 +1,4 @@
-<h2 align="center">:wave: Olá, me chamo Daniel Tavares</h2>
+## :wave: Olá, me chamo Daniel Tavares
 
 <div align="center" style="display: inline_block">
   <a href="https://www.instagram.com/niel.tvrs/">
@@ -20,7 +20,7 @@
   <img height="160em" src="https://badge42.herokuapp.com/api/stats/dantavar"/>  
   </div>
  </br>
-<h2 align="center">:desktop_computer: Minhas Skills</h2>
+## :desktop_computer: Minhas Skills
 
 <div align="center" style="display: inline_block">
   <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
