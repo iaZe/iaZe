@@ -16,7 +16,7 @@
   <li>🌱 Atualmente estou estudando Python</li>
   <li>🔭 Estou trabalhando com Front-End</li>
   
-  <img height="160em" src="https://badge42.herokuapp.com/api/stats/dantavar"/>  
+  <img align="center" height="160em" src="https://badge42.herokuapp.com/api/stats/dantavar"/>  
   
 ## :desktop_computer: Minhas Skills
 
