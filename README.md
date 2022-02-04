@@ -20,6 +20,7 @@
   <img height="160em" src="https://badge42.herokuapp.com/api/stats/dantavar"/>  
   </div>
  </br>
+
 ## :desktop_computer: Minhas Skills
 
 <div align="center" style="display: inline_block">
