@@ -1,4 +1,4 @@
-<h2 align="center">## :wave: Olá, me chamo Daniel Tavares</h2>
+<h2 align="center">:wave: Olá, me chamo Daniel Tavares</h2>
 
 <div align="center" style="display: inline_block">
   <a href="https://www.instagram.com/niel.tvrs/">
