@@ -17,7 +17,7 @@
   <li>🔭 Estou trabalhando com Front-End</li>
 </br>
   <div align="center" style="display: inline_block">
-  <img height="160em" src="https://badge42.herokuapp.com/api/stats/dantavar"/>  
+  <img height="160em" src="https://badge42.herokuapp.com/api/stats/dantavar?cursus=Basecamp"/>  
   </div>
  </br>
 
