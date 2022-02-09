@@ -19,7 +19,6 @@
   <div align="center" style="display: inline_block">
   <img height="160em" src="https://badge42.herokuapp.com/api/stats/dantavar?cursus=Basecamp"/>  
   </div>
- </br>
 
 ## :desktop_computer: Minhas Skills
 
