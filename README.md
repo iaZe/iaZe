@@ -37,7 +37,7 @@
 <div align="center" style="display: inline_block">
   <a href="https://github.com/iaZe"></a>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iaZe&show_icons=true&count_private=true&theme=midnight-purple"/>  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaZe&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaZe&layout=compact&count_private=true&langs_count=7&theme=midnight-purple"/>
 </div>
 
 ## :eyes: Visitas ao meu perfil
