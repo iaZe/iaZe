@@ -26,13 +26,12 @@
 ## :desktop_computer: Minhas Skills
 
 <div align="center" style="display: inline_block">
-  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
+  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> |
+  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"> |
+  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> |
+  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> |
+  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> |
   <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">
 </div>
 
 </br>
@@ -41,9 +40,4 @@
   <a href="https://github.com/iaZe"></a>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iaZe&show_icons=true&count_private=true&theme=midnight-purple"/>  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaZe&layout=compact&count_private=true&langs_count=7&theme=midnight-purple"/>
-</div>
-
-## :eyes: Visitas ao meu perfil
-<div align="center" style="display: inline_block"> 
-<img src="https://profile-counter.glitch.me/iaZe/count.svg" />
 </div>
