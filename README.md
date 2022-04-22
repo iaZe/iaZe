@@ -17,7 +17,7 @@
   <li>🔭 Estou trabalhando com Front-End</li>
 </br>
   <div align="center" style="display: inline_block">
-  <img height="160em" src="https://badge42.vercel.app/api/v2/cl1mqlezf003509l5q3idaqsp/stats?cursusId=21&coalitionId=undefined"/>  
+  <img height="160em" src="https://badge42.vercel.app/api/v2/cl1mqlezf003509l5q3idaqsp/stats?cursusId=60&coalitionId=undefined"/>  
   </br>
   <h3 align="center"> dantavar's 42 Basecamp Final Exam Score </h3>
   <img height="" src="https://badge42.vercel.app/api/v2/cl1mqlezf003509l5q3idaqsp/project/2502796"/>
