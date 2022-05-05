@@ -13,8 +13,7 @@
 </div>
 
 </br>
-  <li>🌱 Atualmente estou estudando Python</li>
-  <li>🔭 Estou trabalhando com Front-End</li>
+  <li>🌱 Atualmente estou estudando C através da 42SP</li>
 </br>
   <div align="center" style="display: inline_block">
   <img height="160em" src="https://badge42.vercel.app/api/v2/cl1mqlezf003509l5q3idaqsp/stats?cursusId=60&coalitionId=undefined"/>  
