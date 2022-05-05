@@ -18,10 +18,6 @@
   <div align="center" style="display: inline_block">
   <img height="160em" src="https://badge42.vercel.app/api/v2/cl1mqlezf003509l5q3idaqsp/stats?cursusId=21&coalitionId=undefined"/>  
   </br>
-  <h3 align="center"> Projeto Atual </h3>
-  <img height="" src="https://badge42.vercel.app/api/v2/cl1mqlezf003509l5q3idaqsp/project/2580363"/>
-    <h3 align="center"> Ultimo Projeto </h3>
-  <img height="" src="https://badge42.vercel.app/api/v2/cl1mqlezf003509l5q3idaqsp/project/2551568"/>
   </div>
 
 ## :desktop_computer: Minhas Skills
