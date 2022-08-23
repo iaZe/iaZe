@@ -16,7 +16,7 @@
   <li>🌱 Atualmente estou estudando C através da 42SP</li>
 </br>
   <div align="center" style="display: inline_block">
-  <img height="160em" src="fase1.png"/>  
+  <img height="250em" src="fase1.png"/>  
   </br>
   </div>
 
