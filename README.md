@@ -1,13 +1,13 @@
 ## :wave: Olá, me chamo Daniel Tavares
 
 <div align="center" style="display: inline_block">
-  <a href="https://www.instagram.com/niel.tvrs/">
+  <a href="https://www.instagram.com/nieltvrs/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a> 
   <a href="https://www.linkedin.com/in/daniel-tavares-8399a9217">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitch.tv/iaze_">
+  <a href="https://twitch.tv/capbara_">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
   </a>
 </div>
