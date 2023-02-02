@@ -1,34 +1,28 @@
-## :wave: Olá, me chamo Daniel Tavares
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<div align="center" style="display: inline_block">
-  <a href="https://www.linkedin.com/in/daniel-tavares-8399a9217">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+<p align="left"> 
+  Iniciei minha carreira com a modificações de jogos em LUA, criando profundo interesse na área.
+  Com muita dedicação obtive experiência e desenvolvo projetos em Python, HTML/CSS3 e Javascript.
+</p>
 
-</br>
-  <li>🌱 Atualmente estou estudando C através da 42SP</li>
-</br>
-  <div align="center" style="display: inline_block">
-  <img height="250em" src="fase1.png"/>  
-  </br>
-  </div>
+<p align="left">
+  🦄 Linguagens: <strong>HTML5/CSS3, Javascript, Python3, C e Lua</strong>
+</p>
 
-## :desktop_computer: Minhas Skills
+<p align="left">
+  💌 Caso deseje entrar em contato: ⤵️
+</p>
 
-<div align="center" style="display: inline_block">
-  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> |
-  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg"> |
-  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"> |
-  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"> |
-  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> |
-  <img align="center" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-</div>
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=nieltvrs@gmail.com" /></a>
 
-</br>
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=http://www.linkedin.com/in/nieltvrs" /></a>
+</p> 
 
-<div align="center" style="display: inline_block">
+##
+<div style="display: inline_block">
   <a href="https://github.com/iaZe"></a>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=iaZe&show_icons=true&count_private=true&theme=midnight-purple"/>  
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaZe&layout=compact&count_private=true&langs_count=7&theme=midnight-purple"/>
 </div>
