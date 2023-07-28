@@ -13,7 +13,9 @@
 </p>
 
 <p align="left">
-  📌 Meu aprendizado: [Rotas para um backend](https://github.com/iaZe/Estudos)
+
+  📌 Meu aprendizado: [Rotas para um backend](https://github.com/iaZe/Estudos/)
+
 </p>
 
 ##
