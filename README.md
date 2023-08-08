@@ -16,7 +16,7 @@
 
   🌟 Projeto em destaque: [Orderflow](http://iaze.pythonanywhere.com/)
   
-  📖 Meu aprendizado: [Rotas para um backend](https://github.com/iaZe/Estudos/)
+  📖 Meu aprendizado: [Rotas para um backend](https://github.com/iaZe/rotas-backend/)
 
 </p>
 
