@@ -4,19 +4,16 @@
   Aos 16 anos comecei a fazer modificações de jogos usando LUA, assim, criando interesse pela área de desenvolvimento.
   Com muita dedicação, obtive aprendizados e comecei a desenvolver pequenos projetos, como sites para pequenas empresas.
   Fui aprovado na 42 São Paulo, onde pude iniciar um aprendizado mais profundo, obtendo experiência com C, Shell, Git e Linux.
-  Atualmente curso Analise e Desenvolviemento de Sistemas e desenvolvo projetos em Python, com foco no desenvolvimento full-stack,
-  utilizando Django, HTML, CSS e Javascript.
+  Atualmente sou formado Analise e Desenvolviemento de Sistemas e desenvolvo projetos em Python.
 </p>
 
 <p align="left">
-  📚 Conhecimento: <strong>HTML5/CSS3, Javascript, Python3, C e Lua</strong>
+  📚 Conhecimento: <strong>Python, C, Lua, React e Typescript</strong>
 </p>
 
 <p align="left">
 
   🌟 Projeto em destaque: [Orderflow](http://iaze.pythonanywhere.com/)
-  
-  📖 Meu aprendizado: [Rotas para um backend](https://github.com/iaZe/rotas-backend/)
 
 </p>
 
