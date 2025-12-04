@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250px" align="right" alt="Ilustração Computador">
 
-# Olá, eu sou o Daniel! 👋
+# Olá, eu sou Daniel! 👋
 
 **Backend Developer | Python Specialist | Tech Lead**
 
