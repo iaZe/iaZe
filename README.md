@@ -18,8 +18,3 @@
 </p>
 
 ##
-
-<div style="display: inline_block">
-  <a href="https://github.com/iaZe"></a>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaZe&layout=compact&count_private=true&langs_count=8&theme=midnight-purple"/>
-</div>
