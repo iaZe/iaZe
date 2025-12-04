@@ -1,11 +1,17 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Ilustração Computador">
-  
-  <h1>Olá, sou Daniel! 👋</h1>
-  <p>
-    <strong>Backend Developer | Python Specialist | Tech Lead</strong>
-  </p>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="250px" align="right" alt="Ilustração Computador">
+
+# Olá, eu sou o Daniel! 👋
+
+**Backend Developer | Python Specialist | Tech Lead**
+
+<p>
+  <a href="https://linkedin.com/in/nieltvrs">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:nieltvrs@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 
 ### 🚀 Sobre Mim
@@ -13,6 +19,7 @@
 Minha jornada começou aos 16 anos modificando scripts em **Lua** para jogos, o que despertou minha curiosidade sobre como as coisas funcionam. Essa curiosidade me levou à **42 São Paulo**, uma experiência imersiva que forjou minha base técnica: lá, aprendi na raça a importância de algoritmos eficientes, o rigor da linguagem C, o trabalho colaborativo (peer-learning) e o domínio do Git.
 
 Hoje, combino essa base sólida com ferramentas modernas para criar aplicações escaláveis. Atualmente, estou focado em construir o **cajuzinho.dev**, uma suíte BaaS (Backend as a Service) projetada para facilitar a vida de startups e desenvolvedores solo.
+
 
 ---
 
@@ -22,7 +29,7 @@ Organizo meu conhecimento em três pilares principais:
 
 <table>
   <tr>
-    <td width="30%"><strong>🔥 Backend </strong></td>
+    <td><strong>🔥 Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -31,17 +38,16 @@ Organizo meu conhecimento em três pilares principais:
     </td>
   </tr>
   <tr>
-    <td><strong>☁️ Infra & DevOps</strong></td>
+    <td><strong>☁️ Infra</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td><strong>🧠 Core & Base</strong></td>
+    <td><strong>🧠 Core</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -61,5 +67,5 @@ Organizo meu conhecimento em três pilares principais:
 <br />
 
 <div align="center">
-  <i>Feito com ☕ e 🌴</i>
+  <i>Feito no 🇧🇷 com ☕ e 🌴</i>
 </div>
