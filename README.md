@@ -18,7 +18,7 @@
 
 Minha jornada começou aos 16 anos modificando scripts em **Lua** para jogos, o que despertou minha curiosidade sobre como as coisas funcionam. Essa curiosidade me levou à **42 São Paulo**, uma experiência imersiva que forjou minha base técnica: lá, aprendi na raça a importância de algoritmos eficientes, o rigor da linguagem C, o trabalho colaborativo (peer-learning) e o domínio do Git.
 
-Hoje, combino essa base sólida com ferramentas modernas para criar aplicações escaláveis. Atualmente, estou focado em construir o **cajuzinho.dev**, uma suíte BaaS (Backend as a Service) projetada para facilitar a vida de startups e desenvolvedores solo.
+Hoje, combino essa base sólida com ferramentas modernas para criar aplicações escaláveis. Atualmente, estou focado no **[Ravuu](ravuu.com.br)**, uma rede social de avaliação de filmes com listas colaborativas e totalmente voltada para comunidade.
 
 
 ---
@@ -60,7 +60,7 @@ Organizo meu conhecimento em três pilares principais:
 
 ### ⚡ Status Atual
 
-* 🔭 **Trabalhando em:** [cajuzinho.dev](https://github.com/iaze) (BaaS Suite)
+* 🔭 **Trabalhando em:** [Ravuu](ravuu.com.br) (Rede Social de Avaliação de Filmes)
 * 🌱 **Estudando:** Arquitetura de Microsserviços, Design de APIs RESTful avançado.
 * 💼 **Disponibilidade:** Aberto a projetos freelance e oportunidades Full-time.
 
